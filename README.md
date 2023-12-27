@@ -22,8 +22,8 @@ Print the parameters of the linear function. End the program.
 
 ## Program:
 ```
-Developed by: Tirupathi Jayadeeep
-Reference number: 23004426
+Developed by: Thajesh k
+Reference number: 23004042
 
 import pandas as pd
 from sklearn import linear_model
